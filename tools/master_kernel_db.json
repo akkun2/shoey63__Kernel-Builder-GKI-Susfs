@@ -2908,6 +2908,11 @@
       "kernel": "6.1.192",
       "date": "lts",
       "android_version": "android14"
+    },
+    {
+      "kernel": "6.1.193",
+      "date": "lts",
+      "android_version": "android14"
     }
   ],
   "6.6": [
@@ -3553,6 +3558,11 @@
     },
     {
       "kernel": "6.6.162",
+      "date": "lts",
+      "android_version": "android15"
+    },
+    {
+      "kernel": "6.6.163",
       "date": "lts",
       "android_version": "android15"
     }
